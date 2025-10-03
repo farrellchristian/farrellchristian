@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farrellchristian
 - 👀 I’m interested in you
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on everyone
 
 <!---
